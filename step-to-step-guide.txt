@@ -1,0 +1,24 @@
+Title: Importing a Backup Using All-in-One WP Migration Plugin – Step-by-Step Guide
+Login to WordPress Admin Panel
+Open your browser and go to: yourdomain.com/wp-admin
+Enter your Username and Password, then click Login.
+Install the All-in-One WP Migration Plugin (if not already installed)
+In the dashboard, go to Plugins > Add New.
+Search for All-in-One WP Migration.
+Click Install Now and then Activate.
+Access the Import Option
+From the dashboard, go to All-in-One WP Migration > Import.
+Upload the Backup File
+Click on the Import From dropdown.
+Choose File.
+Browse and select the .wpress backup file from your computer.
+Wait for the upload to complete. This may take a few minutes depending on the file size.
+Confirm Import
+After the upload, a warning will appear saying the import will overwrite the current website.
+Click Proceed to continue.
+Wait for the Process to Finish
+The plugin will now restore the backup. Do not close the browser until the process is complete.
+Save Permalinks
+Once done, you may be logged out.
+Log back in if necessary.
+Go to Settings > Permalinks and click Save Changes (no need to change anything).
